@@ -99,4 +99,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 
 ## ✨ Author
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Werner](https://github.com/wernerjr)
